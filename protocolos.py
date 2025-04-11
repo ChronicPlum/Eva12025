@@ -16,4 +16,4 @@ elif x == ("BGP"):
     print("La distancia administrativa de BGP es : " + str(BGP))
 
 else:
-    print("Ingrese uno de los protocolos mencionados anteriormente (OSPF, RIP, EIGRP, BGP)")
+    print("Ingrese uno de los protocolos mencionados anteriormente (OSPF, RIP, EIGRP, BGP)") 
